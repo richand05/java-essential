@@ -1,0 +1,4 @@
+TreeMap: Almacena pares clave-valor, ordena las claves.
+HashMap: Almacena pares clave-valor, no garantiza un orden específico.
+HashSet: Almacena elementos únicos, no garantiza un orden específico.
+TreeSet: Almacena elementos únicos, ordena los elementos.
